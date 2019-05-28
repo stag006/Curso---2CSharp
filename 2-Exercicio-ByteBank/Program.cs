@@ -21,7 +21,7 @@ namespace _2_Exercicio_ByteBank
             segundaContaCorrente.saldo = 50;
 
             Console.WriteLine("primeira conta tem: " + primeiraContaCorrente.saldo);
-            Console.WriteLine("Segunda conta tem: " + segundaContaCorrente.saldo);
+            Console.WriteLine("Segunda conta tem:    " + segundaContaCorrente.saldo);
             
 
             Console.ReadLine();
